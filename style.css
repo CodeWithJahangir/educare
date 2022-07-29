@@ -11,15 +11,18 @@
   left: 0;
   background: rgba(29, 29, 29, 0.7);
   display: block;
-  opacity: 0.55;
 }
 
 @media (max-width: 575.98px) {
   .overlay-gradient img {
-    height: 262px;
+    height: 272px;
   }
 
   .overlay-gradient h1 {
-    font-size: 2rem;
+    font-size: 27px;
+  }
+
+  .overlay-gradient p {
+    font-size: 14px;
   }
 }
